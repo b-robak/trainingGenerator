@@ -1,4 +1,4 @@
-# Training Generator
+# Workout Plan Generator
 Application made for enginner degree in 2016 with fallowing topic: 
 
 *Development of application that supports preparation of gym workout plan.*
