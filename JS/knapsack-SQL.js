@@ -67,6 +67,3 @@ connection.connect(function(err) {
         dobierzTrening(1200)
     });
 });
-
-//console.log(fields[0].name);
-//connection.end();
