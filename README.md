@@ -15,7 +15,7 @@ https://rosettacode.org/wiki/Knapsack_problem/Bounded#JavaScript
 - PHP
 - MySQL
 
-##Features
+## Features
 
 #### Different roles
 
@@ -27,7 +27,7 @@ There are three roles of visitors of this application:
 
 #### Register
 <p align="center">
-![registration](https://github.com/b-robak/trainingGenerator/blob/master/IMG/register.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/register.png"  title="hover text">
 </p>
 
 
