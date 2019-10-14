@@ -1,0 +1,162 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #3399FF;
+    color: #FFF;
+    padding: 1% 0;
+    font-size: 1.2em;
+    border: 0;
+}
+.navbar-brand {
+    float: left;
+    min-height: 55px;
+    padding:0 15px 5px;
+}
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover {
+    color: #FFF;
+    background-color: #3399FF;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #D5D5D5;
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.carousel-inner {
+    height: 450px;
+}
+
+.btn {
+    font-size: 18px;
+    color: #FFF;
+    padding: 12px 22px;
+    background: #3399FF;
+    border: 2px solid #FFFFFF;
+}
+.container {
+    margin: 4% auto;
+}
+
+#icon {
+    max-width: 200px;
+    margin: 1% auto;
+}
+footer {
+    width: 100%;
+    background-color: #3399FF;
+    padding: 1%;
+    color: #FFFFFF;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.fa:hover {
+    color: #D5D5D5;
+    text-decoration: none;
+}
+
+
+.wrapper {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.form-signin {
+    max-width: 420px;
+    padding: 30px 38px 66px;
+    margin: 0 auto;
+    background-color: #eee;
+    border: 3px dotted rgba(0,0,0,0.1);
+}
+
+.form-signin-heading {
+    text-align:center;
+    margin-bottom: 30px;
+}
+
+.form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    margin-bottom: 0px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+    margin-bottom: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.g-recaptcha {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.success {
+    color: #1ec432;
+    margin-bottom: 20px;
+}
+
+.callout-dark {
+    padding: 30px;
+    color: #fff;
+    background-color: #152d40;
+    max-width: 600px;
+    margin:0 auto;
+}
+
+.callout-dark h1,
+h2,
+h3,
+h4 {
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.callout-dark p {
+    color: #B1B1B1;
+    font-size: 17px;
+}
+
+.form-generatePlan {
+    max-width: 420px;
+    padding: 30px 38px 66px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+    #icon {
+        max-width: 150px;
+    }
+    h2 {
+        font-size: 1.7em;
+    }
+}
+
