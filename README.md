@@ -27,7 +27,7 @@ There are three roles of visitors of this application:
 
 #### Register
 <p align="center">
-![registration](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/register.png)
+![registration](https://github.com/b-robak/trainingGenerator/blob/master/IMG/register.png)
 </p>
 
 
