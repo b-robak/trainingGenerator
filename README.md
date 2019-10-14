@@ -27,13 +27,13 @@ There are three roles of visitors of this application:
 
 #### Register
 <p align="center">
- <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/register.png"  title="hover text">
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/register.png"  title="register form">
 </p>
 
 
 #### Login
 <p align="center">
-![login](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/login.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/login.png"  title="login form">
 </p>
 
 
@@ -45,7 +45,7 @@ You can chose between two workout goals:
 
 
 <p align="center">
-![workoutGoal](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutGoal.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutGoal.png"  title="workout goal">
 </p>
 
 
@@ -61,7 +61,7 @@ In order to generate workout plan you have to give fallowing data:
 
 
 <p align="center">
-![workoutForm](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutForm.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutForm.png"  title="workout form">
 </p>
 
 
@@ -70,7 +70,7 @@ In order to generate workout plan you have to give fallowing data:
 Thanks to data from generate a plan form, algorithm calculates whats a goal (in kilo calories) for user, then in help of bounded knapsack problems workout plan is generated with exercises for big and small muscles (half calories to burn for big and half to burn for small).
 
 <p align="center">
-![generatedPlan](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/generatedPlan.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/generatedPlan.png"  title="Generated plan short info">
 </p>
 
 
@@ -84,7 +84,7 @@ Here is example of generated workout plan, with fallowing info:
 - whats the muscle involved in this exercise
 
 <p align="center">
-![workoutPlan](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutPlan.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutPlan.png"  title="Workout plan overview">
 </p>
 
 User can delete actual plan and generate new one, based on new goal.
@@ -102,14 +102,13 @@ Admins can add new exercises to database with this form. It needs fallowing data
 - whats the muscle involved in this exercise
 
 <p align="center">
-![addExercise](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/addExercise.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/addExercise.png"  title="Add exercise form">
 </p>
-
 
 #### Actual list of all exercises
 
 Admins can view list of all exercises from databasem and in case they can delete each of them.
 
 <p align="center">
-![exercisesList](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/exercisesList.png)
+ <img src="https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/exercisesList.png"  title="List of all exercises">
 </p>
