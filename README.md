@@ -27,13 +27,13 @@ There are three roles of visitors of this application:
 
 #### Register
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/register.png)
+![registration](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/register.png)
 </p>
 
 
 #### Login
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/login.png)
+![login](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/login.png)
 </p>
 
 
@@ -45,7 +45,7 @@ You can chose between two workout goals:
 
 
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutGoal.png)
+![workoutGoal](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutGoal.png)
 </p>
 
 
@@ -61,23 +61,7 @@ In order to generate workout plan you have to give fallowing data:
 
 
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutForm.png)
-</p>
-
-
-#### Generate a plan form
-
-In order to generate workout plan you have to give fallowing data:
-- how many calories you want to burn during a day (available in lose weight option)
-- how many calories you eat each day
-- whats your gender
-- how much you weight
-- how tall are you
-- how old are you
-
-
-<p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutForm.png)
+![workoutForm](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutForm.png)
 </p>
 
 
@@ -86,7 +70,7 @@ In order to generate workout plan you have to give fallowing data:
 Thanks to data from generate a plan form, algorithm calculates whats a goal (in kilo calories) for user, then in help of bounded knapsack problems workout plan is generated with exercises for big and small muscles (half calories to burn for big and half to burn for small).
 
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/generatedPlan.png)
+![generatedPlan](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/generatedPlan.png)
 </p>
 
 
@@ -100,7 +84,7 @@ Here is example of generated workout plan, with fallowing info:
 - whats the muscle involved in this exercise
 
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutPlan.png)
+![workoutPlan](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/workoutPlan.png)
 </p>
 
 User can delete actual plan and generate new one, based on new goal.
@@ -118,7 +102,7 @@ Admins can add new exercises to database with this form. It needs fallowing data
 - whats the muscle involved in this exercise
 
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/addExercise.png)
+![addExercise](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/addExercise.png)
 </p>
 
 
@@ -127,5 +111,5 @@ Admins can add new exercises to database with this form. It needs fallowing data
 Admins can view list of all exercises from databasem and in case they can delete each of them.
 
 <p align="center">
-![](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/exercisesList.png)
+![exercisesList](https://raw.githubusercontent.com/b-robak/trainingGenerator/master/IMG/exercisesList.png)
 </p>
