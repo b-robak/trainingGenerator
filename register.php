@@ -47,7 +47,7 @@
 
         $hashed_pw = password_hash($password1, PASSWORD_DEFAULT);
 
-        $secret_key = "6LfdbjcUAAAAAM0_UL_O9n8jmotOOcC9UpWajN7e";
+        $secret_key = "";
 
         $check_captcha = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret_key.'&response='.$_POST['g-recaptcha-response']);
 
